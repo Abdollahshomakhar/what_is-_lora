@@ -25,5 +25,4 @@ This repository demonstrates fine-tuning large language models and transformers 
 
 
 
-pip install -U bitsandbytes accelerate transformers datasets peft
 
